@@ -2,7 +2,7 @@
      * Demonstrate the if.
      * Call this file "OneThree.java"
      */
-class OneThree {
+class OneC {
     public static void main(String args[]) {
         int x, y;
 

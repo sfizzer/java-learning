@@ -1,4 +1,4 @@
-public class OneTwo {
+public class OneB {
     public static void main(String args[]) {
 
         int num;// this declares a variable called num
